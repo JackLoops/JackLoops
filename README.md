@@ -11,3 +11,4 @@
 - 📫 Reach me **Goofy#5514**
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackLoops)](https://github.com/anuraghazra/github-readme-stats)
