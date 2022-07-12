@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goofy</h1>
 <h3 align="center">First, solve the problem. Then, write the code – John Johnson</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reallreaper&label=Profile%20views&color=0e75b6&style=flat" alt="JackLoops" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reallreaper" alt="JackLoops" /></a> </p>
-
 
 - 🔭 I’m currently working on Remaking Lifesteal SMP Scripts
 
