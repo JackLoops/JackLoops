@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Goofyr</h1>
+<h1 align="center">Hi 👋, I'm Goofy</h1>
 <h3 align="center">First, solve the problem. Then, write the code – John Johnson</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reallreaper&label=Profile%20views&color=0e75b6&style=flat" alt="reallreaper" /> </p>
