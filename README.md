@@ -4,8 +4,10 @@
 <h1 align="center">Hi 👋, I'm Goofy</h1>
 <h3 align="center">First, solve the problem. Then, write the code – John Johnson</h3>
 
-<img style="text-align: center" src="https://discord.c99.nl/widget/theme-3/926367510847188992.png">
-
+  <a href="your-twitter-URL">
+     <img style="text-align: ce	nter" src="https://discord.c99.nl/widget/theme-3/926367510847188992.png">
+  </a>
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackloops&label=Profile%20views&color=0e75b6&style=flat" alt="jackloops" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackloops" alt="jackloops" /></a> </p>
