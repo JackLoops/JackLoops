@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **Goofy#5514**
 
-<h3 align="left">Connect with me:</h3>
-<img style="text-align: ce	nter" src="https://discord.c99.nl/widget/theme-3/926367510847188992.png">
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<img style="text-align: center" src="https://discord.c99.nl/widget/theme-3/926367510847188992.png">
+<p align="center">
 
 
 
