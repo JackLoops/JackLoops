@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackloops" alt="jackloops" /></a> </p>
 
-- 🔭 I’m currently working on **Remaking LifeSteal SMP Scripts**
+- 🔭 I’m currently working on **Ecconamy Bot Python**
 
 - 🌱 I’m currently learning **Frameworks, JavaScript, Python, C# C++**
 
